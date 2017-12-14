@@ -12,4 +12,4 @@ Welcome to My Great Project's documentation!
 
    feature-a
    feature-b
-
+   feature-c
